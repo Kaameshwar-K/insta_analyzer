@@ -1,0 +1,7 @@
+instaloader==4.7.2
+selenium==4.7.2
+fake-useragent==1.1.2
+matplotlib==3.7.1
+pandas==2.1.0
+streamlit==1.20.0
+reportlab==4.0.0
